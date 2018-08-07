@@ -70,3 +70,6 @@ figcaption {
 #details a:active {
   color: red;
 }
+.wrapper {
+  margin: 0 auto;
+}
